@@ -1,14 +1,13 @@
-## Reading List 
+## Readings
 
 
+## 1. Event Detection
 
-
-### Event Detection
------
 - F Atefeh, W Khreich, "**A survey of techniques for event detection in twitter**" Computational Intelligence, Wiley Online Library, 2015 [[pdf]](https://pdfs.semanticscholar.org/b0a8/d512169453d92fbe44bc77a96bcc9cb9c85f.pdf)
 
-### Spatio-temporal Road Network and services prediction
 -----
+## 2. Spatio-temporal Road Network and services prediction
+
 - Dong Wang, Wei Cao, Jian Li, Jieping Ye. "**DeepSD: Supply-Demand Prediction for Online Car-hailing Services using Deep Neural Networks**" ICDE, 2017 [[pdf]](https://caow13.github.io/deepSD.pdf)
 
 - Tong, Yongxin, et al. "**The simpler the better: a unified approach to predicting original taxi demands based on large-scale online platforms.**" Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2017. [[pdf]](http://www.tik.ee.ethz.ch/file/725d288f4b6c2968056a36576dad868f/kdd17-tong.pdf)
@@ -23,8 +22,10 @@
 - Bao, Jie, et al. "**Planning Bike Lanes based on Sharing-Bikes' Trajectories.**" Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2017. [[pdf]](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/06/main.pdf)
 
 
-### Books
-#### 1. Deep Learning Book
+
+
+## Books
+### 1. Deep Learning Book
 - Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An MIT Press book. (2015). [[pdf]](https://github.com/HFTrader/DeepLearningBook/raw/master/DeepLearningBook.pdf) **(Deep Learning Bible, you can read this book while reading following papers.)** :star::star::star::star::star:
 
 ## 1.1 Survey
