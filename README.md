@@ -18,14 +18,14 @@
 
 **[2016]**
 
-- [ ] Xu, Mengwen, Dong Wang, and Jian Li. "**DESTPRE: a data-driven approach to destination prediction for taxi rides.**" Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing. ACM, 2016.[[pdf]](https://raw.githubusercontent.com/debjyoti385/readings/master/papers/DETPRE.pdf)
+- [ ] Xu, Mengwen, Dong Wang, and Jian Li. "**DESTPRE: a data-driven approach to destination prediction for taxi rides.**" Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing. ACM, 2016.[[pdf]](https://github.com/debjyoti385/Readings/blob/master/Papers/DESTPRE.pdf)
 
 - [x] Xu, Mengwen, et al. "**Demand driven store site selection via multiple spatial-temporal data.**" Proceedings of the 24th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems. ACM, 2016.
 [[pdf]](http://wangty.net/doc/location.pdf)
 
 **[2015]**
 
-- [ ] Moretti, Fabio, et al. "**Urban traffic flow forecasting through statistical and neural network bagging ensemble hybrid modeling.**" Neurocomputing 167 (2015): 3-7. [[pdf]](https://raw.githubusercontent.com/debjyoti385/readings/master/papers/EnsembleTraffic.pdf)
+- [ ] Moretti, Fabio, et al. "**Urban traffic flow forecasting through statistical and neural network bagging ensemble hybrid modeling.**" Neurocomputing 167 (2015): 3-7. [[pdf]](https://github.com/debjyoti385/Readings/blob/master/Papers/EnsembleTraffic.pdf)
 
 - [ ] Lv, Yisheng, et al. "**Traffic flow prediction with big data: a deep learning approach.**" IEEE Transactions on Intelligent Transportation Systems 16.2 (2015): 865-873. [[pdf]](http://ieeexplore.ieee.org/abstract/document/6894591/)
 
