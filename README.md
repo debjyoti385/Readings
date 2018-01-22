@@ -38,7 +38,9 @@
 
 
 
-## RNN / Sequence-to-Sequence in Deep Learning
+## 2. AI and Neural Network Papers
+
+### 2.1 RNN / Sequence-to-Sequence in Deep Learning
 
 - [ ] Graves, Alex. "**Generating sequences with recurrent neural networks**." arXiv preprint arXiv:1308.0850 (2013). [[pdf]](http://arxiv.org/pdf/1308.0850) **(LSTM, very nice generating result, show the power of RNN)** :star::star::star::star:
 
@@ -49,6 +51,26 @@
 - [ ] Bahdanau, Dzmitry, KyungHyun Cho, and Yoshua Bengio. "**Neural Machine Translation by Jointly Learning to Align and Translate**." arXiv preprint arXiv:1409.0473 (2014). [[pdf]](https://arxiv.org/pdf/1409.0473v7.pdf) :star::star::star::star:
 
 - [ ] Vinyals, Oriol, and Quoc Le. "**A neural conversational model**." arXiv preprint arXiv:1506.05869 (2015). [[pdf]](http://arxiv.org/pdf/1506.05869.pdf%20(http://arxiv.org/pdf/1506.05869.pdf)) **(Seq-to-Seq on Chatbot)** :star::star::star:
+
+### 2.2 Semantic Neural Network
+
+- [ ] Wu, Ledell, et al. "**StarSpace: Embed All The Things!.**" arXiv preprint arXiv:1709.03856 (2017). [[pdf]](https://arxiv.org/pdf/1709.03856)
+
+- [ ] Dieng, Adji B., et al. "**Topicrnn: A recurrent neural network with long-range semantic dependency.** " arXiv preprint arXiv:1611.01702 (2016). [[pdf]](https://arxiv.org/pdf/1611.01702)
+
+- [ ] Bahdanau, Dzmitry, Kyunghyun Cho, and Yoshua Bengio. "**Neural machine translation by jointly learning to align and translate.**" arXiv preprint arXiv:1409.0473 (2014). [[pdf]](https://arxiv.org/pdf/1409.0473)
+
+### 2.3 Papers worth reading
+- [ ] Graves, Alex, Greg Wayne, and Ivo Danihelka. "**Neural turing machines.**" arXiv preprint arXiv:1410.5401 (2014). [[pdf]](https://arxiv.org/pdf/1410.5401)
+
+- [ ] Kiela, Douwe, and Léon Bottou. "Learning Image Embeddings using Convolutional Neural Networks for Improved Multi-Modal Semantics." EMNLP. 2014. 
+[[pdf]](https://www.aclweb.org/anthology/D/D14/D14-1005.pdf)
+
+### 2.4 Image and Generrative Model related papers
+- [ ] He, Kaiming, et al. "**Mask r-cnn.**" arXiv preprint arXiv:1703.06870 (2017). [[pdf]](https://arxiv.org/pdf/1703.06870)
+- [ ] Yang, Jianwei, et al. "**LR-GAN: Layered recursive generative adversarial networks for image generation.**" arXiv preprint arXiv:1703.01560 (2017). [[pdf]](https://arxiv.org/pdf/1703.01560)
+- [ ] Fei-Fei, Li, Rob Fergus, and Pietro Perona. "**Learning generative visual models from few training examples: An incremental bayesian approach tested on 101 object categories.**" Computer vision and Image understanding 106.1 (2007): 59-70. [[pdf]](https://pdfs.semanticscholar.org/f6ff/fe049408c7b0343a1bdcefe0dc3d0256646d.pdf)
+- [ ] Hoshen, Yedid. "**Vain: Attentional multi-agent predictive modeling.**" Advances in Neural Information Processing Systems. 2017. [[pdf]](http://papers.nips.cc/paper/6863-vain-attentional-multi-agent-predictive-modeling.pdf)
 
 ## 3. Event Detection
 
